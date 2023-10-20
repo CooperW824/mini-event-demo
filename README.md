@@ -18,3 +18,7 @@ We covered:
 
 > [!IMPORTANT]
 > Remember to use detailed commit messages to make tracking changes easier
+
+[Link To My Website](https://cooperw824.github.io/mini-event-demo)
+
+![HackRPI Logo](img.png)
