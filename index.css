@@ -7,6 +7,12 @@ h1 {
 	color: hsl(240, 100%, 50%);
 }
 
+#p2{
+	text-decoration: underline; /* Underlines Text*/
+	font-weight: 900; /* Emboldens Text*/
+	font-style: italic;  /* Italicizes Text*/
+}
+
 .list{
 	color: #ff0000;
 }
